@@ -1,0 +1,20 @@
+{
+  "name": "polymer-github",
+  "version": "0.0.0",
+  "authors": [
+    "Valentin Degenne <v.degenne@gmail.com>"
+  ],
+  "description": "Exemples de Polymers",
+  "homepage": "https://github.com/vdegenne/Exemples-de-Polymers.git",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#1.0.0"
+  }
+}
